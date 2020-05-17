@@ -1,6 +1,8 @@
 # Return the maximum and minimum difference values by an array
 
-Given two arrays of integers (arr1,arr2). Your task is going to find a pair of numbers(an element in arr1, and another element in arr2), where their difference in value is as big as possible. 
+Given two arrays of integers (arr1,arr2). 
+
+Your task is going to find a pair of numbers(an element in arr1, and another element in arr2), where their difference in value is as big as possible. 
 
 Again, you should find a pair of numbers, their difference in value is as small as possible. 
 
